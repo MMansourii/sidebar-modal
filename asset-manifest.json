@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/sidebar-modal/static/css/main.19d3afdf.chunk.css",
+    "main.js": "/github.io/sidebar-modal/static/js/main.aacc3c42.chunk.js",
+    "main.js.map": "/github.io/sidebar-modal/static/js/main.aacc3c42.chunk.js.map",
+    "runtime-main.js": "/github.io/sidebar-modal/static/js/runtime-main.5deae417.js",
+    "runtime-main.js.map": "/github.io/sidebar-modal/static/js/runtime-main.5deae417.js.map",
+    "static/js/2.43f1e553.chunk.js": "/github.io/sidebar-modal/static/js/2.43f1e553.chunk.js",
+    "static/js/2.43f1e553.chunk.js.map": "/github.io/sidebar-modal/static/js/2.43f1e553.chunk.js.map",
+    "index.html": "/github.io/sidebar-modal/index.html",
+    "precache-manifest.96468b7258538b4bee037d90e4998a5b.js": "/github.io/sidebar-modal/precache-manifest.96468b7258538b4bee037d90e4998a5b.js",
+    "service-worker.js": "/github.io/sidebar-modal/service-worker.js",
+    "static/css/main.19d3afdf.chunk.css.map": "/github.io/sidebar-modal/static/css/main.19d3afdf.chunk.css.map",
+    "static/js/2.43f1e553.chunk.js.LICENSE.txt": "/github.io/sidebar-modal/static/js/2.43f1e553.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github.io/sidebar-modal/static/media/logo.2b686f2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5deae417.js",
+    "static/js/2.43f1e553.chunk.js",
+    "static/css/main.19d3afdf.chunk.css",
+    "static/js/main.aacc3c42.chunk.js"
+  ]
+}
